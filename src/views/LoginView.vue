@@ -2,7 +2,7 @@
   <div class="login">
     <h1>This is a Login page</h1>
     <h5 v-if="!isLoggedIn">Click login Button to Login</h5>
-    <h5 v-else>Click login Button to Logout</h5>
+    <h5 v-else>Click logout Button to Logout</h5>
 
     <div class="container-fluid">
       <div class="row">
